@@ -1,0 +1,77 @@
+head{
+}
+h1{
+	text-align: center;
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	color: rgba(185, 63, 8);
+	font-weight: 400;
+	font-size: 60px;
+}
+
+body{
+	background-color: rgba(247, 112, 24 opacity: 80%);
+	
+}
+
+#image-gallery {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	margin-top: 10%;
+	padding:10px;
+}
+
+figcaption{
+	font-style: italic;
+	font-size: .75em;
+	color: rgba(185, 63, 8);
+	text-align: center;
+}
+
+
+
+.grid-container{
+	padding: 100;
+}
+
+.grid-itemL {
+	color: rgba(247, 112, 24);
+	border: 5px solid rgba(185, 63, 8);
+	padding:5px;
+	font-size:30px;
+	text-align: center;
+
+}
+
+.grid-itemC {
+	color: rgba(247, 112, 24);
+	border: 5px solid rgba(185, 63, 8);
+	padding:5px;
+	font-size:30px;
+	text-align: center;
+
+}
+
+.grid-itemR {
+	color: rgba(247, 112, 24);
+	border: 5px solid rgba(185, 63, 8);
+	padding:5px;
+	font-size:30px;
+	text-align: center;
+
+}
+
+.image{
+	height=80%;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	color: rgba(185, 63, 8);
+}
+
+a{
+	font-size:25px;
+	float: right;
+	padding:40px;
+}
