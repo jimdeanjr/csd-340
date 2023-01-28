@@ -40,6 +40,13 @@ ul{
 	style: none;
 	margin-bottom: 20px;
 }
+
+a{
+	font-size:25px;
+	float: right;
+	padding:40px;
+}
+
 a:link {
 	text-decoration: none;
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
